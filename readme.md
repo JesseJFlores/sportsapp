@@ -74,7 +74,8 @@ _Wants to check the player stats for the last game they played, and also the ove
 
 ## Persona 2: "Team Manager/Parent- Mrs. Warren"
 
-_Wants to upload player/team statistics from last game played._
+_Wants to record team statistics from last game played._
+_Wants to record player statistics during game play._
 
 ## Persona 3: "Player- Kyle Peterson"
 
@@ -85,18 +86,20 @@ _Wants to check his individual stats from the last game played._
 
 ## Persona 1: Coach McDonald   
 
-_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on **STATS**. He signs into his **ADMIN ACCOUNT**, selects his **TEAM**, selects **STATS**, selects **PLAYER** and then most recent **GAME**, determines **PLAYER** to highlight, congratulates players.   
+_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on stats. He signs into his **ADMIN ACCOUNT**, selects **STATS**, selects **PLAYER** and then is able to view the stats for each player for any game.  
 
-_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team **STATS**. He clicks the back button to get out of most recent **GAME**, and this time instead of selecting **PLAYER**, he selects **TEAM STATS** and begins to talk about the over all performance of the team.
+_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team stats. He clicks the back button to get out of player stats, and this time instead of selecting **PLAYER**, he selects **TEAM**.
+
+_Scenario 3:_ The coach would like to select the starting players for the next game so he signs into his **ADMIN ACCOUNT** and selects **SCHEDULE**. Here he is able to create a **LINE UP** (this is only an admin feature) which will be viewable by the players. 
 
 ## Persona 2: Team Manager/Parent- Mrs. Warren   
 
-_Scenario 1:_ It's during a game and Mrs. Warren is keeping **STATS** for each **PLAYER** in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in the **STAT**.  
+_Scenario 1:_ It's during a game and Mrs. Warren is keeping stats for each player in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in the **STAT** (this is only an Admin feature).  
 
-_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STAT**.
+_Scenario 2:_ It's in between games and Mrs. Warren would like to update the team stats. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STAT**.
 
 ## Persona 3: Player- Kyle Peterson   
 
-_Scenario 1:_ Kyle has just finished playing a **GAME** and would like to check his own **STATS** so he signs into the app under his **PLAYER ACCOUNT** and  
+_Scenario 1:_ Kyle has just finished playing a game and would like to check his own stats so he signs into the app under his **PLAYER ACCOUNT** and selects **STATS**. He then selects **PLAYER** and finds his name amongst a list of all the players. He can view his own stats or the other players stats as well.  
 
-_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STATS**.
+_Scenario 2:_ Kyle wants to know who the starters for the upcoming game will be. He signs into the app under his **PLAYER ACCOUNT** and selects **SCHEDULE**. He finds the date for the next game and selects it. This takes him to the **LINE UP** where he can view the starters for each position.
