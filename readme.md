@@ -93,4 +93,4 @@ _Scenario 2:_ Now the coach is done highlighting individual players and would li
 
 _Scenario 1:_ It's during a game and Mrs. Warren is keeping **STATS** for each **PLAYER** in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in a **STAT** for.  
 
-_Scenario 2:_ 
+_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STAT**. 
