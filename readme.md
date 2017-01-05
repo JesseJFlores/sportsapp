@@ -14,7 +14,7 @@ _Job Title:_ Teacher, $35k
 
 _Description:_
 
-Works as a high school history teacher which allows him to coach and play games during the evenings. Very passionate about team sports and teaching kids how to work together. Likes to help build confidence in the players by awarding them for their achievements.
+Works as a high school history teacher which allows him to coach and play games during the evenings. He is not married and has no children. Very passionate about team sports and teaching kids how to work together. Likes to help build confidence in the players by awarding them for their achievements.
 
 _Goals:_
 
@@ -29,7 +29,7 @@ Doesn't have time to enter all the individual players/team statistics.
 
 _Profile:_ Mother to one of the players  
 _Gender:_ Female   
-_Age:_ 35  
+_Age:_ 38  
 _Location:_ Austin, Tx  
 _Job Title:_ Full Time Mom
 
@@ -83,14 +83,20 @@ _Wants to check his individual stats from the last game played._
 
 # SCENARIOS
 
-## Persona 1: Coach McDonald ##  
+## Persona 1: Coach McDonald   
 
-_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on **STATS**. He signs into his **ADMIN ACCOUNT**, selects his **TEAM**, selects **PLAYER STATS**, selects most recent **GAME**, determines **PLAYER** to highlight, congratulates players.   
+_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on **STATS**. He signs into his **ADMIN ACCOUNT**, selects his **TEAM**, selects **STATS**, selects **PLAYER** and then most recent **GAME**, determines **PLAYER** to highlight, congratulates players.   
 
-_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team **STATS**. He clicks the back button to get out of most recent **GAME**, and this time instead of selecting **PLAYER STATS**, he selects **TEAM STATS** and begins to talk about the over all performance of the team.
+_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team **STATS**. He clicks the back button to get out of most recent **GAME**, and this time instead of selecting **PLAYER**, he selects **TEAM STATS** and begins to talk about the over all performance of the team.
 
-## Persona 2: ##  
+## Persona 2: Team Manager/Parent- Mrs. Warren   
 
-_Scenario 1:_ It's during a game and Mrs. Warren is keeping **STATS** for each **PLAYER** in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in a **STAT** for.  
+_Scenario 1:_ It's during a game and Mrs. Warren is keeping **STATS** for each **PLAYER** in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in the **STAT**.  
 
-_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STAT**. 
+_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STAT**.
+
+## Persona 3: Player- Kyle Peterson   
+
+_Scenario 1:_ Kyle has just finished playing a **GAME** and would like to check his own **STATS** so he signs into the app under his **PLAYER ACCOUNT** and  
+
+_Scenario 2:_ It is in between games and Mrs. Warren would like to update the team **STATS**. She signs in to her **ADMIN ACCOUNT** and navigates to the **STATS** page, where she then selects between **PLAYER** and **TEAM**- here she will select **TEAM** and fill in the **STATS**.
