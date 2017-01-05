@@ -85,12 +85,12 @@ _Wants to check his individual stats from the last game played._
 
 ## Persona 1: Coach McDonald ##  
 
-_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on stats. He signs into his account, selects his team, selects player stats, selects most recent game, determines players to highlight, congratulates players.   
+_Scenario 1:_ It's been a few days since the last game and the team is now at practice. The Coach would like to highlight top performances from players based on **STATS**. He signs into his **ADMIN ACCOUNT**, selects his **TEAM**, selects **PLAYER STATS**, selects most recent **GAME**, determines **PLAYER** to highlight, congratulates players.   
 
-_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team statistics. He clicks the back button to get out of most recent game, and this time instead of selecting player stats, he selects team stats and begins to talk about the over all performance of the team.
+_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team **STATS**. He clicks the back button to get out of most recent **GAME**, and this time instead of selecting **PLAYER STATS**, he selects **TEAM STATS** and begins to talk about the over all performance of the team.
 
 ## Persona 2: ##  
 
-_Scenario 1:_ It's during a game and Mrs. Warren is keeping stats for the players in real time. 
+_Scenario 1:_ It's during a game and Mrs. Warren is keeping **STATS** for each **PLAYER** in real time. She has an **ADMIN ACCOUNT** and is already signed in. She navigates to the **ROSTER** page and waits. As a player does something she  selects that **PLAYER** to fill in a **STAT** for.  
 
-_Scenario 2:_ Now the coach is done highlighting individual players and would like to discuss team statistics. He clicks the back button to get out of most recent game, and this time instead of selecting player stats, he selects team stats and begins to talk about the over all performance of the team.   
+_Scenario 2:_ 
