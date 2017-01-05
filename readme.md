@@ -114,6 +114,12 @@ _Scenario 3:_ The coach would like to select the starting players for the next g
 
 ## Persona 2: Team Manager/Parent- Mrs. Warren
 
-_Scenario 1:_ It's during a game and Mrs. Warren is keeping stats for each player in real time. She signs into her **ADMIN ACCOUNT** and selects **STATS**. As each player either gets a base hit, scores a run, gets an RBI, or makes an out, she marks it down under that individual players name. To do this she selects the players name from the list that is shown when she clicks on **STATS**. After clicking an individuals name she is shown each possible stat with an input box next to it (in the form of a list). Here she will enter the number equal to however many times the player has done each one.
+_Scenario 1:_ It's during a game and Mrs. Warren is keeping stats for each player in real time. She signs into her **ADMIN ACCOUNT** and selects **STATS**. As each player either gets a base hit, scores a run, gets an RBI, or makes an out, she marks it down under that individual players name. To do this she selects the players name from the list that is shown when she clicks on **STATS**. After clicking an individuals name she is shown each possible stat with an input box next to it (in the form of a list). Here she will enter the number equal to however many times the player has done each one. She then hits **SAVE**.
 
-_Scenario 2:_  
+_Scenario 2:_ It's in between games and Mrs. Warren would like to update the team stats. She signs into her **ADMIN ACCOUNT** and selects **STATS**. She is then prompted with the option to choose betwen **PLAYER** or **TEAM**. She will select **TEAM**. From here she can record a win, a loss, or a tie. She can also see the teams over all ranking within the league.  
+
+## Persona 3: Player- Kyle Peterson
+
+_Scenario 1:_ Kyle has just finished playing a game and would like to check his own stats so he signs into the app under his **PLAYER ACCOUNT** and selects **STATS**. From here he is presented with a list of all the players. He clicks on his name. He is now presented with a list of all the dates that games were played. He selects the date for that day and can view his individual stats for that days game.
+
+_Scenario 2:_ Kyle wants to know who the starters for the upcoming game will be. He signs into the app under his **PLAYER ACCOUNT** and selects **SCHEDULE**. He is now looking at a calendar and can pick the date for the next game. He clicks the date and this takes him to the **LINE UP** where he can view the starters for each position as well as the batting line up. 
