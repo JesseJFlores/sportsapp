@@ -103,3 +103,17 @@ _Scenario 2:_ It's in between games and Mrs. Warren would like to update the tea
 _Scenario 1:_ Kyle has just finished playing a game and would like to check his own stats so he signs into the app under his **PLAYER ACCOUNT** and selects **STATS**. He then selects **PLAYER** and finds his name amongst a list of all the players. He can view his own stats or the other players stats as well.  
 
 _Scenario 2:_ Kyle wants to know who the starters for the upcoming game will be. He signs into the app under his **PLAYER ACCOUNT** and selects **SCHEDULE**. He finds the date for the next game and selects it. This takes him to the **LINE UP** where he can view the starters for each position.
+
+# USE CASES
+
+## Persona 1: Coach McDonald
+
+_Scenario 1:_ The coach wants to view the individual player statistics after a game so he can make notes to the players about their performance. He logs in to his **ADMIN ACCOUNT** and selects **STATS** and is now presented with the option to select team or player. He selects **TEAM**. He is then shown a list of all the players and is able to select the one he wants to view. He clicks the name of one of the players and can then see the individual statistics for that player.
+
+_Scenario 3:_ The coach would like to select the starting players for the next game so he signs into his **ADMIN ACCOUNT** and selects **SCHEDULE**. He is shown a calendar and he is able to click on a date. He finds the date for the upcoming game and clicks. Since he is an Admin he is presented with the option to create a Line Up. He clicks **LINE UP**. He is then able to post the starters for each position along with the batting line up. Once he fills in all the info he presses **CREATE**.
+
+## Persona 2: Team Manager/Parent- Mrs. Warren
+
+_Scenario 1:_ It's during a game and Mrs. Warren is keeping stats for each player in real time. She signs into her **ADMIN ACCOUNT** and selects **STATS**. As each player either gets a base hit, scores a run, gets an RBI, or makes an out, she marks it down under that individual players name. To do this she selects the players name from the list that is shown when she clicks on **STATS**. After clicking an individuals name she is shown each possible stat with an input box next to it (in the form of a list). Here she will enter the number equal to however many times the player has done each one.
+
+_Scenario 2:_  
